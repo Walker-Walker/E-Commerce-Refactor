@@ -1,7 +1,7 @@
 
 # E-Commerce-Refactor
 ## Functionality:
-`This application utilizes Express.js API's unison with Mysql Database and Sequelize. Test Data
+`This application utilizes Express.js API's in unison with Mysql Database and Sequelize. Test Data
 has been seeded and tested via server and api routes. CRUD operations for categories, tags, and products are all
 available per API calls for post, put, and delete. All api endpoints are tested in Insomnia Core.
 `
