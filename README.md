@@ -6,5 +6,5 @@ has been seeded and tested via server and api routes. CRUD operations for catego
 available per API calls for post, put, and delete. All api endpoints are tested in Insomnia Core.
 `
 # demo 
-[demo1]("https://drive.google.com/file/d/1m75beI9MkXwEmrgf7aLrX6h6-YNtoPVr/view")
-[demo2]("https://drive.google.com/file/d/1uV8FTEhJyYCqnAlptdeP30GtKGxdJGVb/view")
+[demo1](https://drive.google.com/file/d/1m75beI9MkXwEmrgf7aLrX6h6-YNtoPVr/view)
+[demo2](https://drive.google.com/file/d/1uV8FTEhJyYCqnAlptdeP30GtKGxdJGVb/view)
