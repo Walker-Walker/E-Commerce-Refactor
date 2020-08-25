@@ -28,7 +28,7 @@ router.get("/:id", (req, res) => {
     include: [Product],
   })
     .then((category) => {
-      console.log(category);
+      // console.log(category);
       res.json(category);
     })
     .catch((err) => {

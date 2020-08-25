@@ -47,7 +47,7 @@ router.get("/:id", (req, res) => {
     ],
   })
     .then((product) => {
-      console.log(product);
+      // console.log(product);
       res.json(product);
     })
     .catch((err) => {

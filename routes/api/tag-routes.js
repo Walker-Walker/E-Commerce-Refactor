@@ -32,7 +32,7 @@ router.get("/:id", (req, res) => {
         res.status(400).json({message: 'Matching Tag Not Found'})
         return;
       }
-      console.log(tag);
+      // console.log(tag);
       res.json(tag);
     })
     .catch((err) => {
@@ -64,7 +64,7 @@ router.put("/:id", (req, res) => {
       id: req.params.id
     }
   }) .then(tag => {
-    console.log(tag);
+    // console.log(tag);
     res.json(tag);
   })
   .catch(err => {
@@ -81,7 +81,7 @@ router.delete("/:id", (req, res) => {
     }
   })
   .then(tag => {
-    console.log(tag);
+    // console.log(tag);
     res.json(tag);
   })
   .catch(err => {
